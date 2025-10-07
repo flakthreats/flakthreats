@@ -1,5 +1,5 @@
-[translate:# GitBirb BNB (GBB)
-
+# GitBirb BNB (GBB) CA: 
+![Banner](assets/banner.png)
 GitBirb BNB is an experimental BEP‑20 token on BNB Smart Chain, created as a learning project with open-source code and a transparent launch process via GitHub and no‑code/low‑code tools.
 
 ## Key facts
